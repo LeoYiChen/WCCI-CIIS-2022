@@ -1,3 +1,4 @@
+![](https://github.com/LeoYiChen/WCCI-CIIS-2022/blob/gh-pages/WCCI2022-padua-logo.png)
 
 ### IEEE WCCI2022 Special Session on Computational intelligence for industrial sustainability (CIIS)
 
@@ -61,10 +62,10 @@ Email: mays@sustech.edu.cn
 
 **5.Important Dates:**
 
-*Paper Submission: January 31, 2022
-*Notification of Acceptance: April 26, 2022
-*Final Paper Submission: May 23, 2022
-*IEEE WCCI 2022, Padua, Italy. 18-23 July 2012
+* Paper Submission: January 31, 2022
+* Notification of Acceptance: April 26, 2022
+* Final Paper Submission: May 23, 2022
+* IEEE WCCI 2022, Padua, Italy. 18-23 July 2012
 
 ***
 
@@ -73,14 +74,8 @@ Email: mays@sustech.edu.cn
 Please follow the IEEE WCCI 2022 instruction for authors and submit your paper via the IEEE WCCI 2022 online submission system (https://cmt3.research.microsoft.com/IEEEWCCI2022/). Please specify that your paper is for the Special Session on " Computational intelligence for industrial sustainability (CIIS)".
 
 ***
-![](https://github.com/LeoYiChen/WCCI-CIIS-2022/blob/gh-pages/WCCI2022-padua-logo.png)
-
 ![](https://github.com/LeoYiChen/WCCI-CIIS-2022/blob/gh-pages/IEEE-IET.jpg)
 
 ![](https://github.com/LeoYiChen/WCCI-CIIS-2022/blob/gh-pages/The%CC%81a%CC%82tre-anatomique-Padoue_0-1536x1152.jpeg)
 
 ![](https://github.com/LeoYiChen/WCCI-CIIS-2022/blob/gh-pages/galileo-galilei.jpg)
-
-
-
-
