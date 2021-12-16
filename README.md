@@ -3,7 +3,7 @@
 
 https://wcci2022.org/
 
-https://github.com/LeoYiChen/WCCI2022-CIIS
+https://leoyichen.github.io/WCCI-CIIS-2022/
 
 @wcci2022.org
 
