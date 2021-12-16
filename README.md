@@ -4,7 +4,7 @@
 
 https://wcci2022.org/
 
-https://leoyichen.github.io/WCCI-CIIS-2022/
+https://leoyichen.github.io/WCCI2022-CIIS/
 
 @wcci2022.org
 
