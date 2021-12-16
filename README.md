@@ -73,13 +73,14 @@ Email: mays@sustech.edu.cn
 Please follow the IEEE WCCI 2022 instruction for authors and submit your paper via the IEEE WCCI 2022 online submission system (https://cmt3.research.microsoft.com/IEEEWCCI2022/). Please specify that your paper is for the Special Session on " Computational intelligence for industrial sustainability (CIIS)".
 
 ***
-![](https://github.com/LeoYiChen/WCCI2022-CIIS/blob/mfile20180723/WCCI2022-padua-logo.png)
+![](https://github.com/LeoYiChen/WCCI-CIIS-2022/blob/gh-pages/WCCI2022-padua-logo.png)
 
-![](https://github.com/LeoYiChen/WCCI2022-CIIS/blob/mfile20180723/IEEE-IET.jpg)
+![](https://github.com/LeoYiChen/WCCI-CIIS-2022/blob/gh-pages/IEEE-IET.jpg)
 
-![](https://github.com/LeoYiChen/WCCI2022-CIIS/blob/mfile20180723/IEEE-IET.jpg)
+![](https://github.com/LeoYiChen/WCCI-CIIS-2022/blob/gh-pages/The%CC%81a%CC%82tre-anatomique-Padoue_0-1536x1152.jpeg)
 
-![](https://github.com/LeoYiChen/WCCI2022-CIIS/blob/mfile20180723/galileo-galilei.jpg)
+![](https://github.com/LeoYiChen/WCCI-CIIS-2022/blob/gh-pages/galileo-galilei.jpg)
+
 
 
 
