@@ -39,9 +39,9 @@ The session aims to collect theoretical and empirical studies that contribute to
 
 **4. Organisers:**
 
-* Dr Leo Chen
+* Dr Yi Chen
 Xi’an Jiaotong-Liverpool University, China
-Email: leo.chen@ieee.org
+Email: yi.chen02@xjtlu.edu.cn
 
 * Dr Yang Luo 
 Xi’an Jiaotong-Liverpool University, China
